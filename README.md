@@ -10,6 +10,9 @@ This repository implements a multi-agent research assistant integrating :
 ![alt_text](architecture.png)
 
 
+![image](https://github.com/user-attachments/assets/22c11d77-8aa0-48ed-ad5d-fb4e8027e141)
+
+
 ## Project Structure
 ```
 project/
