@@ -55,7 +55,6 @@ Architecture Components:
 ----------------------
 ![alt text](nvidia_workflow.png)
 
-![alt text](image.png)
 
 1. State Management
    - Uses NvidiaGPTState TypedDict for maintaining pipeline state
